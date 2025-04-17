@@ -1,4 +1,4 @@
-from window_class import Window
+from graphics import Window
 
 def main():
     win = Window(800, 600)
